@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlweWE2bjIzYjhiMDB4ZmszaHhxazI2YnFpajVzN2kybGU0aGFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="gif">
-<img align="right" width="200" height="200" src="https://tenor.com/vi/view/rolimbox-okarun-turbo-dandadan-gif-4890250882260638471" alt="okarun">
+<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlweWE2bjIzYjhiMDB4ZmszaHhxazI2YnFpajVzN2kybGU0aGFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangduy-it&label=Profile%20views&color=0e75b6&style=flat" alt="dangduy-it" /> </p>
 
 - 📫 How to reach me **dangduy04.it@gmail.**
