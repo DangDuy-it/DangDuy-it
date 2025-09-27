@@ -5,8 +5,7 @@
 <img align="left" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlweWE2bjIzYjhiMDB4ZmszaHhxazI2YnFpajVzN2kybGU0aGFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangduy-it&label=Profile%20views&color=0e75b6&style=flat" alt="dangduy-it" /> </p>
 
-### 📫 How to reach me
-**Email:** [dangduy04.it@gmail.com](mailto:dangduy04.it@gmail.com)
+### 📫 How to reach me email: [dangduy04.it@gmail.com](mailto:dangduy04.it@gmail.com)
 
 ### ⚡ Fun fact
 - 😆 I am funny  
