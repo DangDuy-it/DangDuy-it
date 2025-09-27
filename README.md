@@ -5,16 +5,14 @@
 <img align="left" width="300" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlweWE2bjIzYjhiMDB4ZmszaHhxazI2YnFpajVzN2kybGU0aGFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangduy-it&label=Profile%20views&color=0e75b6&style=flat" alt="dangduy-it" /> </p>
 
-<p>📫 How to reach me "<a href="mailto:dangduy04.it@gmail.com" style="color: black; text-decoration: none;">dangduy04.it@gmail.com</a>"</p>
+### 📫 How to reach me
+**Email:** [dangduy04.it@gmail.com](mailto:dangduy04.it@gmail.com)
 
-<p>⚡ Fun fact :
-    <ul> 
-        <li style="margin-left: 20rem;">I am funny 😆</li>
-        <li style="margin-left: 20rem;">I love playing football and swimming ⚽🏊</li>
-        <li style="margin-left: 20rem;">Traveling is my way to recharge ✈️🌍</li>
-        <li style="margin-left: 20rem;">Traveling is my way to recharge ✈️🌍</li>
-    </ul>
-</p>
+### ⚡ Fun fact
+- 😆 I am funny  
+- ⚽🏊 I love playing football and swimming  
+- ✈️🌍 Traveling is my way to recharge  
+- 💻🌙 I enjoy coding late at night  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
