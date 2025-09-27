@@ -12,6 +12,7 @@
 - ⚽🏊 I love playing football and swimming  
 - ✈️🌍 Traveling is my way to recharge  
 - 💻🌙 I enjoy coding late at night  
+- 💻🌙 I enjoy coding late at night  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
