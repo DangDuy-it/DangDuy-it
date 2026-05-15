@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://www.facebook.com/duydang2508" target="_blank">
-    <img align="center" src="https://commons.wikimedia.org/wiki/File:2023_Facebook_icon.svg" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <!-- <a href="https://www.instagram.com/_tron3k" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
