@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duy</h1>
-<h3 align="center">A Passionate Frontend Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A Passionate Fullstack Developer from Vietnam 🇻🇳</h3>
 
 <img align="right" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlweWE2bjIzYjhiMDB4ZmszaHhxazI2YnFpajVzN2kybGU0aGFhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="coding gif" />
 
