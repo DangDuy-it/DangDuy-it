@@ -30,12 +30,12 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.facebook.com/duydang150" target="_blank">
+  <a href="https://www.facebook.com/duydang2508" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/_tron3k" target="_blank">
+  <!-- <a href="https://www.instagram.com/_tron3k" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
